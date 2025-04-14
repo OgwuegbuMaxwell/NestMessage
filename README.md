@@ -10,4 +10,4 @@ Perfect for learning NestJS or using as a starter template for backend projects.
 - Retrieve all messages
 - Fetch a specific message by ID
 - Clean modular architecture using NestJS
-- In-memory or database storage (based on setup)
+- json file storage
